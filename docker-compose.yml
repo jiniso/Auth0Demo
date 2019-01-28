@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  api: 
+    build: .
+    restart: always
+    ports:
+     - "8080:3000"
+    environment:
+      PORT: 3000
+      AUTH0_DOMAIN: https://jiniso.auth0.com
+      AUTH0_AUDIENCE: https://api.jiniso.com/timesheets
