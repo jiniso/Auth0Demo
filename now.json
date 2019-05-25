@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "express",
+    "name": "Auth0 Demo",
     "builds": [
         { "src": "**/*.js", "use": "@now/node" }
     ]
