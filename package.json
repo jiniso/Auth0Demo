@@ -21,7 +21,7 @@
     "fs-copy-file-sync": "^1.1.1",
     "helmet": "^3.18.0",
     "jwks-rsa": "^1.1.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "replace-in-file": "^3.4.3",
     "swagger-ui-express": "latest",
     "yamljs": "^0.3.0"
